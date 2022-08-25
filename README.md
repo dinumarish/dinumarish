@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dinumarish
-- 👀 I’m interested in problem solving using computers through machine learning, AI and everything that comes along with these cool disciplines
-- 🌱 I’m currently learning Docker, AWS and out of curiosity web3.0
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in problem solving with computers using machine learning, AI and everything that comes along with these cool disciplines
+- 🌱 I’m currently working for an awesome team building digital farming products that'll soon revolutionize the way we produce food
+- 💞️ I’m looking to make the leap to big data and high performance computing 
 - 📫 How to reach me ? simply write to dinumarish@gmail.com
 
 <!---
